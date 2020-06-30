@@ -5,7 +5,7 @@
     en: /^The Bowl Of Embers$/,
     cn: /^伊弗利特讨伐战$/,
   },
-  timelineFile: 'ifrit_nm.txt',
+  timelineFile: 'ifrit-nm.txt',
   timelineTriggers: [
     {
       id: 'IfritNM Inner',

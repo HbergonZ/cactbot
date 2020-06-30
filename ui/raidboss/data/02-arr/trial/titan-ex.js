@@ -5,7 +5,7 @@
     en: /^The Navel \(Extreme\)$/,
     cn: /^泰坦歼殛战$/,
   },
-  timelineFile: 'titan_ex.txt',
+  timelineFile: 'titan-ex.txt',
   timelineTriggers: [
     {
       id: 'TitanEx Mountain Buster',

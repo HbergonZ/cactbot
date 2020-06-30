@@ -4,7 +4,7 @@
   zoneRegex: {
     en: /^Cinder Drift$/,
   },
-  timelineFile: 'ruby-weapon.txt',
+  timelineFile: 'ruby_weapon.txt',
   timelineTriggers: [
     {
       id: 'Ruby Magitek Meteor Behind',

@@ -4,7 +4,7 @@
   zoneRegex: {
     en: /^The Navel \(Hard\)$/,
   },
-  timelineFile: 'titan_hm.txt',
+  timelineFile: 'titan-hm.txt',
   timelineTriggers: [
     {
       id: 'TitanHm Mountain Buster',
